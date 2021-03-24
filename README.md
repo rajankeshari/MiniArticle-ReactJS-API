@@ -1,2 +1,1 @@
-# MiniArticle-ReactJS-API
-### Backend
+# Backend
