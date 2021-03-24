@@ -1,1 +1,0 @@
-# MiniArticle-ReactJS-API Backend
